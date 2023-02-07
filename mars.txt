@@ -2,4 +2,8 @@ Cold and dry. But everything is my favourite colour
 The two moons may be a problem for Wolfman 
 But the Mummy will appreciate the lack of humidity
 Venus was decided as a potential base
+<<<<<<< HEAD
 We added a different line in the other copy
+=======
+Butt Uranus is better 
+>>>>>>> 9b6a816005b86e1a7bae9077666684206ceabf64
